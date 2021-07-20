@@ -10,12 +10,12 @@ This challenge was create a webpage with interactivity so that users could get a
 The initial setup of this webpage is nicely laid out.  The ease of use, the asthetics of the font, the color scheme are all very important in keeping the user engaged and on the site to discover more.  When taking a look at the entire page from top to bottom, it's a simple-looking sophisticated site, with some input areas to get a deeper dive into the data.  See Figure1.
 
 
-!Figure1.PNG(../images/Figure1.PNG)
+![Figure1.PNG](../images/Figure1.PNG)
 #### Figure1
 
 From the provided data structure, the 'ask' was to create and enhance the input areas for the user.  The initial code only had the 'date' search capability.  As you can see in Figure2, the filtered search criteria has now expanded to include 'city', 'state', 'country' and 'shape'.  The structure seems quite simple and easy-to-use however, the code behind it is a bit complex.
 
-!Figure2.PNG(../images/Figure2.PNG)
+![Figure2.PNG](../images/Figure2.PNG)
 #### Figure2
 
 The functions and data objects were created in JavaScript, the background colors and font were in CSS code, and the Index and page structure were created in HTML code.  Each script harmoniously balance each other, providing different tasks, put together and displayed in any web browser.
@@ -26,7 +26,7 @@ With the time alloted to complete this project, the functionality works, it's a 
     enter information in one or more fields of the filter search
         example - under 'Enter Data', type '1/11/2010' then, under 'Enter State', type 'CA' and hit 'Enter' on your keyboard.  See Figure3
 
-!Figure3.PNG(../images/Figure3.PNG)
+![Figure3.PNG](../images/Figure3.PNG)
 
 #### Figure3
 
