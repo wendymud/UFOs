@@ -22,7 +22,9 @@ The functions and data objects were created in JavaScript, the background colors
 
 ### Results
 
-With the time alloted to complete this project, the functionality works, it's a clean modern-looking feel and vibe.  I chose the yellowgreen color for the font to liven up the page.  The white font with a dark background seemed a bit drab and the yellowgreen gives it a more alien-esque feel.  The entry fields have clear examples of what the expected input should look like so training on the site should be minimal.  Here are the steps to perform a search: 
+With the time alloted to complete this project, the functionality works, it's a clean modern-looking feel and vibe.  I chose the yellowgreen color for the font to liven up the page.  The white font with a dark background seemed a bit drab and the yellowgreen gives it a more alien-esque feel.  The entry fields have clear examples of what the expected input should look like so training on the site should be minimal.
+
+--How to perform a search--: 
     enter information in one or more fields of the filter search
         example - under 'Enter Data', type '1/11/2010' then, under 'Enter State', type 'CA' and hit 'Enter' on your keyboard.  See Figure3
 
